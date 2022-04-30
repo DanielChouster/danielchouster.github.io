@@ -27,12 +27,11 @@
 
 }
 
-.cardBody {
+/* .cardBody {
     border-color: blue;
     border: 1px solid #dd29ce;
 
-
-}
+} */
 
 /* .portfolioBox {
     border: 1px solid #d83d3d;
@@ -41,7 +40,7 @@
 
 .rowOfBoxes {
     width: 80%;
-    border: 5px solid rgb(36, 236, 53);
+    /* border: 5px solid rgb(36, 236, 53); */
     border-radius: .5em;
     padding: 10px;
     display: flex;
