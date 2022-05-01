@@ -898,7 +898,10 @@ textarea, label {
       background-position: center bottom; }
 
 .contact-block {
-  margin-bottom: 30px; }
+  margin-bottom: 30px; 
+  width: 300px;
+
+}
   .contact-block:last-child {
     margin-bottom: 0; }
   .contact-block .media-left {

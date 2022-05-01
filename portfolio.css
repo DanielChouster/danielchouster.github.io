@@ -54,4 +54,19 @@
 
 .FlappyBird {
     display: block;
+    
+}
+
+
+.cardBody {
+    padding: 20px;
+    background-color: aqua;
+}
+
+.container {
+    /* padding-top: 120px; */
+}
+
+.newClass {
+    padding-top: 200px;
 }
